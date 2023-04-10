@@ -1,344 +1,50 @@
-Contribution: 2021-11-26 20:00
+# Bulletproof React 🛡️ ⚛️
 
-Contribution: 2021-11-26 20:01
+[![MIT License](https://img.shields.io/github/license/alan2207/bulletproof-react)](https://github.com/alan2207/bulletproof-react/blob/master/LICENCE)
+[![CI](https://github.com/alan2207/bulletproof-react/actions/workflows/ci.yml/badge.svg)](https://github.com/alan2207/bulletproof-react/actions/workflows/ci.yml)
 
-Contribution: 2021-11-30 20:00
+A simple, scalable, and powerful architecture for building production ready React applications.
 
-Contribution: 2021-11-30 20:01
+## Introduction
 
-Contribution: 2021-12-03 20:00
+React is an excellent tool for building front-end applications. It has a diverse ecosystem with hundreds of great libraries for literally anything you might need. However, being forced to make so many choices can be overwhelming. It is also very flexible, you can write React applications in any way you like, but that flexibility comes with a cost. Since there is no pre-defined architecture that developers can follow, it often leads to a messy, inconsistent, and over-complicated codebase.
 
-Contribution: 2021-12-05 20:00
+This repo attempts to present a way of creating React applications using some of the best tools in the ecosystem with a good project structure that scales very well. Based on my vast experience working with different codebases, this architecture turns out to be the most effective.
 
-Contribution: 2021-12-10 20:00
+The goal here is to serve as a collection of resources and best practices when developing React applications. It is supposed to showcase solving most of the real-world problems of an application in a practical way and help developers write better applications.
 
-Contribution: 2021-12-10 20:01
+Feel free to explore the codebase to get the most value out of the repo.
 
-Contribution: 2021-12-12 20:00
+#### Disclaimer:
 
-Contribution: 2021-12-12 20:01
+This is not supposed to be a template, boilerplate or a framework. It is an opinionated guide that shows how to do some things in a certain way. You are not forced to do everything exactly as it is shown here, decide what works best for you and your team and stay consistent with your style.
 
-Contribution: 2021-12-13 20:00
+## Table Of Contents:
 
-Contribution: 2021-12-15 20:00
+- [💻 Application Overview](docs/application-overview.md)
+- [⚙️ Project Configuration](docs/project-configuration.md)
+- [👁️ Style Guide](docs/style-guide.md)
+- [🗄️ Project Structure](docs/project-structure.md)
+- [🧱 Components And Styling](docs/components-and-styling.md)
+- [📡 API Layer](docs/api-layer.md)
+- [🗃️ State Management](docs/state-management.md)
+- [🧪 Testing](docs/testing.md)
+- [⚠️ Error Handling](docs/error-handling.md)
+- [🔐 Security](docs/security.md)
+- [🚄 Performance](docs/performance.md)
+- [🌐 Deployment](docs/deployment.md)
+- [📚 Additional Resources](docs/additional-resources.md)
 
-Contribution: 2021-12-19 20:00
+## Contributing
 
-Contribution: 2021-12-19 20:01
+Contributions are always welcome! If you have any ideas, suggestions, fixes, feel free to contribute. You can do that by going through the following steps:
 
-Contribution: 2021-12-20 20:00
+1. Clone this repo
+2. Create a branch: `git checkout -b your-feature`
+3. Make some changes
+4. Test your changes
+5. Push your branch and open a Pull Request
 
-Contribution: 2021-12-20 20:01
+## License
 
-Contribution: 2021-12-25 20:00
-
-Contribution: 2021-12-25 20:01
-
-Contribution: 2021-12-28 20:00
-
-Contribution: 2021-12-28 20:01
-
-Contribution: 2021-12-29 20:00
-
-Contribution: 2021-12-29 20:01
-
-Contribution: 2022-01-01 20:00
-
-Contribution: 2022-01-01 20:01
-
-Contribution: 2022-01-02 20:00
-
-Contribution: 2022-01-12 20:00
-
-Contribution: 2022-01-12 20:01
-
-Contribution: 2022-01-18 20:00
-
-Contribution: 2022-01-22 20:00
-
-Contribution: 2022-01-22 20:01
-
-Contribution: 2022-01-30 20:00
-
-Contribution: 2022-01-30 20:01
-
-Contribution: 2022-02-04 20:00
-
-Contribution: 2022-02-04 20:01
-
-Contribution: 2022-02-06 20:00
-
-Contribution: 2022-02-08 20:00
-
-Contribution: 2022-02-16 20:00
-
-Contribution: 2022-03-02 20:00
-
-Contribution: 2022-03-09 20:00
-
-Contribution: 2022-03-09 20:01
-
-Contribution: 2022-03-13 20:00
-
-Contribution: 2022-03-13 20:01
-
-Contribution: 2022-03-17 20:00
-
-Contribution: 2022-03-18 20:00
-
-Contribution: 2022-03-20 20:00
-
-Contribution: 2022-03-20 20:01
-
-Contribution: 2022-03-22 20:00
-
-Contribution: 2022-03-26 20:00
-
-Contribution: 2022-03-26 20:01
-
-Contribution: 2022-03-28 20:00
-
-Contribution: 2022-04-06 20:00
-
-Contribution: 2022-04-06 20:01
-
-Contribution: 2022-04-15 20:00
-
-Contribution: 2022-04-15 20:01
-
-Contribution: 2022-04-21 20:00
-
-Contribution: 2022-04-21 20:01
-
-Contribution: 2022-04-24 20:00
-
-Contribution: 2022-04-24 20:01
-
-Contribution: 2022-04-30 20:00
-
-Contribution: 2022-04-30 20:01
-
-Contribution: 2022-05-01 20:00
-
-Contribution: 2022-05-01 20:01
-
-Contribution: 2022-05-08 20:00
-
-Contribution: 2022-05-08 20:01
-
-Contribution: 2022-05-11 20:00
-
-Contribution: 2022-05-14 20:00
-
-Contribution: 2022-05-14 20:01
-
-Contribution: 2022-05-26 20:00
-
-Contribution: 2022-05-29 20:00
-
-Contribution: 2022-05-29 20:01
-
-Contribution: 2022-06-01 20:00
-
-Contribution: 2022-06-02 20:00
-
-Contribution: 2022-06-03 20:00
-
-Contribution: 2022-06-03 20:01
-
-Contribution: 2022-06-08 20:00
-
-Contribution: 2022-06-13 20:00
-
-Contribution: 2022-06-13 20:01
-
-Contribution: 2022-06-19 20:00
-
-Contribution: 2022-06-20 20:00
-
-Contribution: 2022-06-20 20:01
-
-Contribution: 2022-06-26 20:00
-
-Contribution: 2022-06-29 20:00
-
-Contribution: 2022-06-30 20:00
-
-Contribution: 2022-07-02 20:00
-
-Contribution: 2022-07-07 20:00
-
-Contribution: 2022-07-07 20:01
-
-Contribution: 2022-07-14 20:00
-
-Contribution: 2022-07-22 20:00
-
-Contribution: 2022-07-22 20:01
-
-Contribution: 2022-07-26 20:00
-
-Contribution: 2022-07-26 20:01
-
-Contribution: 2022-08-12 20:00
-
-Contribution: 2022-08-12 20:01
-
-Contribution: 2022-08-23 20:00
-
-Contribution: 2022-08-23 20:01
-
-Contribution: 2022-08-27 20:00
-
-Contribution: 2022-08-27 20:01
-
-Contribution: 2022-08-29 20:00
-
-Contribution: 2022-08-30 20:00
-
-Contribution: 2022-08-30 20:01
-
-Contribution: 2022-09-06 20:00
-
-Contribution: 2022-09-06 20:01
-
-Contribution: 2022-09-07 20:00
-
-Contribution: 2022-09-08 20:00
-
-Contribution: 2022-09-08 20:01
-
-Contribution: 2022-09-10 20:00
-
-Contribution: 2022-09-10 20:01
-
-Contribution: 2022-09-23 20:00
-
-Contribution: 2022-09-26 20:00
-
-Contribution: 2022-09-26 20:01
-
-Contribution: 2022-10-06 20:00
-
-Contribution: 2022-10-06 20:01
-
-Contribution: 2022-10-08 20:00
-
-Contribution: 2022-10-08 20:01
-
-Contribution: 2022-10-09 20:00
-
-Contribution: 2022-10-10 20:00
-
-Contribution: 2022-10-26 20:00
-
-Contribution: 2022-10-26 20:01
-
-Contribution: 2022-10-31 20:00
-
-Contribution: 2022-10-31 20:01
-
-Contribution: 2022-11-01 20:00
-
-Contribution: 2022-11-17 20:00
-
-Contribution: 2022-11-17 20:01
-
-Contribution: 2022-11-20 20:00
-
-Contribution: 2022-11-20 20:01
-
-Contribution: 2022-11-22 20:00
-
-Contribution: 2022-11-22 20:01
-
-Contribution: 2022-12-10 20:00
-
-Contribution: 2022-12-10 20:01
-
-Contribution: 2022-12-20 20:00
-
-Contribution: 2022-12-20 20:01
-
-Contribution: 2022-12-22 20:00
-
-Contribution: 2022-12-23 20:00
-
-Contribution: 2022-12-24 20:00
-
-Contribution: 2022-12-24 20:01
-
-Contribution: 2023-01-01 20:00
-
-Contribution: 2023-01-01 20:01
-
-Contribution: 2023-01-07 20:00
-
-Contribution: 2023-01-07 20:01
-
-Contribution: 2023-01-13 20:00
-
-Contribution: 2023-01-13 20:01
-
-Contribution: 2023-01-15 20:00
-
-Contribution: 2023-01-17 20:00
-
-Contribution: 2023-01-20 20:00
-
-Contribution: 2023-01-22 20:00
-
-Contribution: 2023-01-30 20:00
-
-Contribution: 2023-01-31 20:00
-
-Contribution: 2023-02-11 20:00
-
-Contribution: 2023-02-11 20:01
-
-Contribution: 2023-02-13 20:00
-
-Contribution: 2023-02-17 20:00
-
-Contribution: 2023-02-23 20:00
-
-Contribution: 2023-02-23 20:01
-
-Contribution: 2023-02-24 20:00
-
-Contribution: 2023-02-25 20:00
-
-Contribution: 2023-02-25 20:01
-
-Contribution: 2023-03-09 20:00
-
-Contribution: 2023-03-09 20:01
-
-Contribution: 2023-03-11 20:00
-
-Contribution: 2023-03-11 20:01
-
-Contribution: 2023-03-13 20:00
-
-Contribution: 2023-03-13 20:01
-
-Contribution: 2023-03-14 20:00
-
-Contribution: 2023-03-14 20:01
-
-Contribution: 2023-03-17 20:00
-
-Contribution: 2023-04-01 20:00
-
-Contribution: 2023-04-01 20:01
-
-Contribution: 2023-04-03 20:00
-
-Contribution: 2023-04-07 20:00
-
-Contribution: 2023-04-07 20:01
-
-Contribution: 2023-04-09 20:00
-
-Contribution: 2023-04-09 20:01
-
+[MIT](https://choosealicense.com/licenses/mit/)
